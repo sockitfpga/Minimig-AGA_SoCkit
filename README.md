@@ -1,3 +1,8 @@
+# Minimig-AGA for SoCkit
+
+Ported from https://github.com/MiSTer-devel/Minimig-AGA_MiSTer
+
+Follows original readme file.
 
 # Minimig-AGA_MiSTer
 
