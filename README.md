@@ -1,4 +1,4 @@
-# Minimig-AGA for SoCkit
+# Minimig-AGA for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
 
 Ported from https://github.com/MiSTer-devel/Minimig-AGA_MiSTer
 
